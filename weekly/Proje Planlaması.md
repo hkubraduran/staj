@@ -8,23 +8,28 @@
 * Gantt şemasının hazırlanması. Bu şemayı github reposuna görüntülenebilir bir formatta eklemelisiniz.
 * Raporlama
 ## 2. Hafta
-* **Python Kütüphanesi Geliştirme:**
+* **Python Kütüphanesi Geliştirme Araştırması:**
 
-	*  Modem ile iletişim kuracak Python kütüphanesinin temel tasarımını yapma.
+	*  Modem ile iletişim kuracak Python kütüphanesinin araştırmasını ve temel tasarımına başlama.
 		* Modem ile konuşma
 		* Veri gönderme ve alma
 		* Ayarlarını değiştirme
 		
-	* AT komutları için temel yapıyı oluşturma.
+	* AT komutları hakkında araştırma yap, gerekli bilgileri topla.
 	*  Ekstra özelliklerin eklenmesi (otomatik port tanıma, seri port ayarları özelleştirme).
 	
 ## 3. Hafta
+* **Python Kütüphanesi Geliştirme:**
+	* Modem ile iletişim kuracak Python kütüphanesinin araştırması  ve temel tasarımı.
+		* Modem ile konuşma
+		* Veri gönderme ve alma
+		* Ayarlarını değiştirme
+		
+## 4. Hafta
 * **HTTP İstekleri Gönderme:**
 
 	*  Modem üzerinden [webhook.site](http://webhook.site/)'a HTTP GET ve POST istekleri gönderebilen Python kodunu yazma.
 	*  Bunun için önceki haftada yazılan kütüphaneyi kullanma.
-
-## 4. Hafta
 * **MQTT İletişimi:**
 
 	*   Modem üzerinden [hivemq](https://www.hivemq.com/mqtt/public-mqtt-broker/) üzerinde belirlenen bir topic'e MQTT mesajı gönderebilen ve aynı topic'e subscribe olarak mesajları okuyabilen Python kodunu yazma.
@@ -43,5 +48,5 @@
 	* Raspberry Pi'nin modem üzerinden internete çıkması için ECM protokolünü kullanarak Python kodu yazma.
 	*   Bu protokollerle kurulan bağlantıların hızlarını ölçme ve genel bir karşılaştırma yapma.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NTA5MDA2XX0=
+eyJoaXN0b3J5IjpbMTM4ODA4OTIxNCwxNjk1MDkwMDZdfQ==
 -->
