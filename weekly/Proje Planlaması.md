@@ -34,10 +34,12 @@
 
 	*   Modem üzerinden [hivemq](https://www.hivemq.com/mqtt/public-mqtt-broker/) üzerinde belirlenen bir topic'e MQTT mesajı gönderebilen ve aynı topic'e subscribe olarak mesajları okuyabilen Python kodunu yazma.
 	*   Bu işlevselliği sağlamak için önceki haftada yazılan kütüphaneyi kullanma.
+	* 
 ## 5. Hafta
 * **PPP Protokolü**
 	*   Raspberry Pi'nin modem üzerinden internete çıkması için PPP protokolünü kullanarak Python kodu yazma.
 	*  Modem üzerinden internete çıkma işlemlerini test etme.
+	* 
 ## 6. Hafta
 * **QMI/RMNET**
 	*   Raspberry Pi'nin modem üzerinden internete çıkması için QMI/RMNET  protokolünü kullanarak Python kodu yazma.
@@ -48,5 +50,6 @@
 	* Raspberry Pi'nin modem üzerinden internete çıkması için ECM protokolünü kullanarak Python kodu yazma.
 	*   Bu protokollerle kurulan bağlantıların hızlarını ölçme ve genel bir karşılaştırma yapma.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4ODA4OTIxNCwxNjk1MDkwMDZdfQ==
+eyJoaXN0b3J5IjpbMTM1MzgzNDU1OCwxMzg4MDg5MjE0LDE2OT
+UwOTAwNl19
 -->
