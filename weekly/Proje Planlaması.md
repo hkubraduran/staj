@@ -16,7 +16,7 @@
 		* Ayarlarını değiştirme
 		
 	* AT komutları hakkında araştırma yap, gerekli bilgileri topla.
-	*  Ekstra özelliklerin eklenmesi (otomatik port tanıma, seri port ayarları özelleştirme).
+	
 	
 ## 3. Hafta
 * **Python Kütüphanesi Geliştirme:**
@@ -25,21 +25,25 @@
 		* Veri gönderme ve alma
 		* Ayarlarını değiştirme
 		
+	* AT komutlarını kullan.
+	*  Ekstra özelliklerin eklenmesi (otomatik port tanıma, seri port ayarları özelleştirme).	
+	
 ## 4. Hafta
 * **HTTP İstekleri Gönderme:**
 
 	*  Modem üzerinden [webhook.site](http://webhook.site/)'a HTTP GET ve POST istekleri gönderebilen Python kodunu yazma.
 	*  Bunun için önceki haftada yazılan kütüphaneyi kullanma.
+	
 * **MQTT İletişimi:**
 
 	*   Modem üzerinden [hivemq](https://www.hivemq.com/mqtt/public-mqtt-broker/) üzerinde belirlenen bir topic'e MQTT mesajı gönderebilen ve aynı topic'e subscribe olarak mesajları okuyabilen Python kodunu yazma.
 	*   Bu işlevselliği sağlamak için önceki haftada yazılan kütüphaneyi kullanma.
-	* 
+	
 ## 5. Hafta
 * **PPP Protokolü**
 	*   Raspberry Pi'nin modem üzerinden internete çıkması için PPP protokolünü kullanarak Python kodu yazma.
 	*  Modem üzerinden internete çıkma işlemlerini test etme.
-	* 
+	
 ## 6. Hafta
 * **QMI/RMNET**
 	*   Raspberry Pi'nin modem üzerinden internete çıkması için QMI/RMNET  protokolünü kullanarak Python kodu yazma.
@@ -50,6 +54,6 @@
 	* Raspberry Pi'nin modem üzerinden internete çıkması için ECM protokolünü kullanarak Python kodu yazma.
 	*   Bu protokollerle kurulan bağlantıların hızlarını ölçme ve genel bir karşılaştırma yapma.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MzgzNDU1OCwxMzg4MDg5MjE0LDE2OT
+eyJoaXN0b3J5IjpbMTk0NjI5Mzc3MywxMzg4MDg5MjE0LDE2OT
 UwOTAwNl19
 -->
