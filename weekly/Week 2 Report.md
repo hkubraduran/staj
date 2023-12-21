@@ -21,7 +21,7 @@
 * I activated ssh in raspberry pi configuration 
 	*  raspberryi pi preferences --> interfaces --> SSH enable 
 * Then, I connected raspberry pi to internet with `ssh kubra@IP address of raspberry pi` command
-
+* I want to add some v
 
 ### Remote Connection with VNC 
 * I downloaded [VNC client](https://www.realvnc.com/en/connect/download/viewer/) on my computer to have remote access to the Raspberry pi.
@@ -32,5 +32,5 @@
 * I opened VNC Viewer from my own computer, typed IP address and connected to raspberyy pi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzcxODY3NDJdfQ==
+eyJoaXN0b3J5IjpbLTQ5NTA0MDU1NSwtMTI3NzE4Njc0Ml19
 -->
