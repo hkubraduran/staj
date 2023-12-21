@@ -19,7 +19,7 @@
 * I used [raspberry pi imager](https://www.raspberrypi.com/software/) for wifi connection 
 *I used a [video](https://www.youtube.com/watch?v=nZyyfJYOhbM) named "Setup Raspberry PI OS with SSH and WIFI"
 * I activated ssh in raspberry pi configuration 
-	*  raspberryi pi preferences --> interfaces --> SSH enable 
+	*  raspberryi pi configurations--> interfaces --> SSH enable 
 * Then, I connected raspberry pi to internet with `ssh kubra@IP address of raspberry pi` command
 * I want to add some images about how I did it but unfortunately I cannot add image.
 
@@ -27,10 +27,11 @@
 * I downloaded [VNC client](https://www.realvnc.com/en/connect/download/viewer/) on my computer to have remote access to the Raspberry pi.
 * For VNC, two devices must be connected to the same wifi.
 *  I also opened VNC on the Raspberry pi.
-	* raspberryi pi preferences --> interfaces --> VNC enable 
+	* raspberryi pi configurations--> interfaces --> VNC enable 
 * I connected raspberry pi to monitor and learned the IP  adress with `ifconfig` command (firstly you need to unplug the modem, and then connect the same wifi with the laptop).
 * I opened VNC Viewer from my own computer, typed IP address and connected to raspberyy pi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMDE4NjM3NiwtMTI3NzE4Njc0Ml19
+eyJoaXN0b3J5IjpbMzUzMjAyNDIsMTQwMDE4NjM3NiwtMTI3Nz
+E4Njc0Ml19
 -->
