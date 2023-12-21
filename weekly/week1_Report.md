@@ -1,7 +1,7 @@
 # 1.HAFTA RAPORU
 
-### Temel Git Komutlarını Öğrenme ve Github Reposu Oluşturma
-* Öncelikle githubdan public bir repository oluşturdum. 
+### Learning Basic Git Commands and Creating a Github Repository
+* First of all, I created a public repository on github. 
 * Daha sonra weekly adında bir dizin oluşturdum.
 * Masaüstündeki klasörüme README dosyası oluşturdum.
 * Daha sonra terminalden sırasıyla aşağıdaki git komutlarını kullanarak README dosyasını github repositorysine ekledim.
@@ -26,5 +26,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5OTU4OTIzNF19
+eyJoaXN0b3J5IjpbLTYyMjE1NTkwMCwtODk5NTg5MjM0XX0=
 -->
