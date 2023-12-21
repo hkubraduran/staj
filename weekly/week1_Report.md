@@ -2,7 +2,7 @@
 
 ### Learning Basic Git Commands and Creating a Github Repository
 * First of all, I created a public repository on github. 
-* Daha sonra weekly adında bir dizin oluşturdum.
+* Then I created a directory called weekly.
 * Masaüstündeki klasörüme README dosyası oluşturdum.
 * Daha sonra terminalden sırasıyla aşağıdaki git komutlarını kullanarak README dosyasını github repositorysine ekledim.
 	* cd Desktop
@@ -26,5 +26,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMjE1NTkwMCwtODk5NTg5MjM0XX0=
+eyJoaXN0b3J5IjpbNjM2MzMxMzk2LC04OTk1ODkyMzRdfQ==
 -->
