@@ -3,8 +3,8 @@
 ### Learning Basic Git Commands and Creating a Github Repository
 * First of all, I created a public repository on github. 
 * Then I created a directory called weekly.
-* Masaüstündeki klasörüme README dosyası oluşturdum.
-* Daha sonra terminalden sırasıyla aşağıdaki git komutlarını kullanarak README dosyasını github repositorysine ekledim.
+* I created a README file in my folder on the desktop.
+* Then I added the README file to the github repository using the following git commands respectively from the terminal.
 	* cd Desktop
 	* cd sixfab
 	* git init
@@ -14,8 +14,8 @@
 	* git push -u origin master
 
 ### Raspberry Pi 3B+ Kurulumu
-* Öncelikle işletim sistemini sd karta kurmakla başladım.
-	* [Raspberry Pi OS Images](https://www.raspberrypi.com/software/operating-systems/ ) sayfasından raspberryi pi 3b+ image dosyasını indirererek Balena Etcher ile sd karta aktardım.
+* I started by installing the operating system on the SD card.	
+* * [Raspberry Pi OS Images](https://www.raspberrypi.com/software/operating-systems/ ) sayfasından raspberryi pi 3b+ image dosyasını indirererek Balena Etcher ile sd karta aktardım.
 * Daha sonra sd kartımı ve diğer gerekli donanımları(mouse,klavye,ekran,lan kablosu,güç kablosu) raspberry pi'a bağladım.
 * Son olarak raspberry pi kurulumunu açılan ekrandan tamamladım.
 ### Sixfab 4G/LTE Cellular Modem Kurulumu
@@ -26,5 +26,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM2MzMxMzk2LC04OTk1ODkyMzRdfQ==
+eyJoaXN0b3J5IjpbLTExMDM4OTUyMDYsLTg5OTU4OTIzNF19
 -->
