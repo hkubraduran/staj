@@ -20,12 +20,13 @@ I downloaded the raspberryi pi 3b+ image file from the page and transferred it t
 * Then I connected my sd card and other necessary hardware (mouse, keyboard, screen, lan cable, power cable) to the raspberry pi.
 * Finally, I completed the raspberry pi installation from the pop-up screen.
 ### Sixfab 4G/LTE Cellular Modem Kurulumu
-* ]I used sixfab [document](https://docs.sixfab.com/docs/raspberry-pi-4g-lte-cellular-modem-kit-getting-started) for modem installation.(https://docs.sixfab.com/docs/raspberry-pi-4g-lte-cellular-modem-kit-getting-started) yararlandım. 
-* Dökümandaki adımları takip ederek donanımları birleştirdim.
-* Daha sonra [sixfab core device bağlantısını](https://connect.sixfab.com/) yaptım.
-* sudo bash -c "$(curl -sN https://install.connect.sixfab.com)" -- -t YOUR_TOKEN_APPEARS_HERE' -d kodunu terminalde çalıştırıp bağlantıyı tamamlamış oldum.
+* I used sixfab [document](https://docs.sixfab.com/docs/raspberry-pi-4g-lte-cellular-modem-kit-getting-started) for modem installation.
+* I combined the hardware following the steps in the document.
+* Then I made [sixfab core device connection](https://connect.sixfab.com/).
+* sudo bash -c "$(curl -sN https://install.connect.sixfab.com)" -- -t YOUR_TOKEN_APPEARS_HERE' -d 
+I ran th code in the terminal and completed the connection.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI5NDQ3NDIsLTg5OTU4OTIzNF19
+eyJoaXN0b3J5IjpbLTE3NDcyMjQ4MjMsLTg5OTU4OTIzNF19
 -->
