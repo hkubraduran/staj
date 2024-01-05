@@ -3,7 +3,7 @@
 ### Python Library
 * Research about python library that will be created to communicate with the modem
 	* I got information about serial communication using this [site](https://devtut.github.io/python/python-serial-communication-pyserial.html#initialize-serial-device) 
-* AT Commands 
+* AT Commands `
 	* `ls /dev/tty*` 
 		* It shows all USB devices that plugged into the raspberry pi
 		* I learned "/dev/ttyUSB0  /dev/ttyUSB1 /dev/ttyUSB2 /dev/ttyUSB3" these are my cellular modem.
@@ -32,6 +32,6 @@
 * I opened VNC Viewer from my own computer, typed IP address and connected to raspberyy pi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUzMjAyNDIsMTQwMDE4NjM3NiwtMTI3Nz
-E4Njc0Ml19
+eyJoaXN0b3J5IjpbMjAwOTQ3OTc2LDM1MzIwMjQyLDE0MDAxOD
+YzNzYsLTEyNzcxODY3NDJdfQ==
 -->
